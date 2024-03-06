@@ -72,3 +72,7 @@ body{
 .hide{
     display: none;
 }
+#made{
+    font-size: 8vmin;
+    color: #ffffc7;
+}
